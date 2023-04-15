@@ -1,7 +1,7 @@
 ### Привет! Я - Герман, frontend разработчик!
 
 - 👀 Интересуюсь web-разработкой, урбанистикой, путешествиями
-- :space_invader: 
+- :space_invader::space_invader::space_invader::space_invader::space_invader::space_invader::space_invader::space_invader::space_invader::space_invader:
 - 📫 Как связаться: podakov@ya.ru
 
 ---
