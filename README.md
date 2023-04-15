@@ -2,7 +2,7 @@
 
 - 👀 Интересуюсь web-разработкой, урбанистикой, путешествиями
 - :space_invader: 
-- 📫 Как связаться: i@podakov.ru
+- 📫 Как связаться: podakov@ya.ru
 
 ---
 ### Контакты:
@@ -26,7 +26,6 @@
 [<img align="left" alt="SQL" width="32px" src="https://img.icons8.com/color-glass/48/000000/sql.png"/>][git]
 [<img align="left" alt="PostgreSQL" width="32px" src="https://img.icons8.com/color/50/000000/postgreesql.png"/>][git]
 [<img align="left" alt="PrismaORM" width="32px" src="https://img.icons8.com/nolan/64/prism.png"/>][git]
-[<img align="left" alt="SequelizeORM" width="32px" src="https://sequelize.org/v7/image/brand_logo.png"/>][git]
 [<img align="left" alt="Git" width="32px" src="https://img.icons8.com/color/48/000000/git.png"/>][git]
 [<img align="left" alt="Web Storm" width="32px" src="https://img.icons8.com/color/48/000000/webstorm.png" />][git]
 [<img align="left" alt="CSS3" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][git]
