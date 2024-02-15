@@ -12,9 +12,9 @@
 
 
 <br/>
-- 📫: podakov@ya.ru/podakov@yahoo.com
 <br/>
-
+---
+- 📫: podakov@ya.ru/podakov@yahoo.com
 ---
 ### Stack:
 
