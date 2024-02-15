@@ -13,8 +13,10 @@
 
 <br/>
 <br/>
----
 - 📫: podakov@ya.ru/podakov@yahoo.com
+<br/>
+<br/>
+
 ---
 ### Stack:
 
