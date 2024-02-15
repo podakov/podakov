@@ -1,22 +1,21 @@
 ### Привет! Я - Герман, frontend разработчик!
 
-- 👀 Интересуюсь web-разработкой, урбанистикой, путешествиями
+- 👀
 - :space_invader::space_invader::space_invader::space_invader::space_invader::space_invader::space_invader::space_invader::space_invader::space_invader:
-- 📫 Как связаться: podakov@ya.ru
+
 
 ---
-### Контакты:
+### Contacts:
 
-<!-- [<img align="left" alt="podakov | LinkedIn" width="40px" src="https://img.icons8.com/color/48/000000/linkedin-2--v1.png" />][linkedin] -->
 [<img align="left" alt="podakov | Telegram" width="40px" src="https://img.icons8.com/fluency/48/000000/telegram-app.png" />][telegram]
 [<img align="left" alt="podakov | WhatsApp" width="40px" src="https://img.icons8.com/color/48/000000/whatsapp.png" />][whatsapp]
-<!-- [<img align="left" alt="podakov | Instagram" width="40px" src="https://img.icons8.com/fluency/48/000000/instagram-new.png" />][instagram] -->
+- 📫: podakov@ya.ru/podakov@yahoo.com
 
 <br/>
 <br/>
 
 ---
-### Мой стек:
+### Stack:
 
 [<img align="left" alt="JavaScript" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][git]
 [<img align="left" alt="TypeScript" width="32px" src="https://img.icons8.com/color/48/000000/typescript.png"/>][git]
@@ -34,11 +33,6 @@
 <br/>
 <br/>
 <br/>
-
-- **Фронтенд**: JS, TypeScript, React, Hooks API, Redux (Saga, Thunk), HTML5, CSS3
-- **Бекенд**: Node.js, Express, Sessions/Tokens, CORS, hbs
-- **Базы данных**: PostgreSQL, Sequelize ORM, Prisma ORM
-- **A также**: Jest, REST
 
 
 ---
