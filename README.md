@@ -1,4 +1,4 @@
-### Привет! Я - Герман, frontend разработчик!
+### Hello, I'm German, a frontend developer.
 
 - 👀
 - :space_invader::space_invader::space_invader::space_invader::space_invader::space_invader::space_invader::space_invader::space_invader::space_invader:
@@ -9,9 +9,10 @@
 
 [<img align="left" alt="podakov | Telegram" width="40px" src="https://img.icons8.com/fluency/48/000000/telegram-app.png" />][telegram]
 [<img align="left" alt="podakov | WhatsApp" width="40px" src="https://img.icons8.com/color/48/000000/whatsapp.png" />][whatsapp]
-- 📫: podakov@ya.ru/podakov@yahoo.com
+
 
 <br/>
+- 📫: podakov@ya.ru/podakov@yahoo.com
 <br/>
 
 ---
