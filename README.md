@@ -42,9 +42,6 @@
 
 
 ---
-### GitHub cтатистика:
-[![Julia's GitHub stats](https://github-readme-stats.vercel.app/api?username=podakov&hide=issues&count_private=true&show_icons=true&theme=nightowl)](https://github.com/podakov)
-
 <!-- [resume]: https://drive.google.com/file/d/1fimloQQ7aPQDQ1kvQda6bTDQsP9zl313/view?usp=sharing
 [resumeHH]: https://hh.ru/resume/e74a53f2ff095f7dfb0039ed1f657455356546 -->
 [linkedin]: https://www.linkedin.com/in/podakov
