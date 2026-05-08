@@ -21,7 +21,7 @@
 ### Stack:
 
 [<img align="left" alt="JavaScript" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][git]
-[<img align="left" alt="JavaScript" width="32px" src="https://img.icons8.com/?size=100&id=tGvHBPJaKqEd&format=png&color=000000" />][git]
+[<img align="left" alt="JavaScript" width="32px" src="https://storage.yandexcloud.net/git-read-me/icons8-js.gif" />][git]
 
 [<img align="left" alt="TypeScript" width="32px" src="https://img.icons8.com/color/48/000000/typescript.png"/>][git]
 [<img align="left" alt="React" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][git]
