@@ -7,21 +7,21 @@
 ---
 ### Contacts:
 
-[<img align="left" alt="elegram" width="40px" src="https://storage.yandexcloud.net/git-read-me/icons8-telegram-96.apng.png" />][telegram]: @podakov
+[<img align="left" alt="elegram" width="40px" src="https://storage.yandexcloud.net/git-read-me/icons8-telegram-96.apng.png" />]: @podakov
 <br/>
 [<img align="left" alt="Email" width="40px" src="https://storage.yandexcloud.net/git-read-me/icons8-email-64.apng.png
-" />][whatsapp]: podakov@ya.ru/podakov@yahoo.com
+" />]: podakov@ya.ru/podakov@yahoo.com
 <br/>
 
 ---
 ### Stack:
-[<img align="left" alt="Linux" width="40px" src="https://storage.yandexcloud.net/git-read-me/icons8-linux-96.apng.png" />][git]
-[<img align="left" alt="HTML" width="40px" src="https://storage.yandexcloud.net/git-read-me/icons8-html-80.apng.png"/>][git]
-[<img align="left" alt="JavaScript" width="40px" src="https://storage.yandexcloud.net/git-read-me/icons8-js-96.apng.png" />][git]
-[<img align="left" alt="TypeScript" width="40px" src="https://storage.yandexcloud.net/git-read-me/icons8-typescript-96.png"/>][git]
-[<img align="left" alt="React" width="40px" src="https://storage.yandexcloud.net/git-read-me/icons8-react-native-96.png" />][git]
-[<img align="left" alt="ASTRO" width="40px" src="https://storage.yandexcloud.net/git-read-me/icons8-astro-js-96.png"/>][git]
-[<img align="left" alt="NextJS" width="40px" src="https://storage.yandexcloud.net/git-read-me/icons8-nextjs-96%20(1).png"/>][git]
+[<img align="left" alt="Linux" width="40px" src="https://storage.yandexcloud.net/git-read-me/icons8-linux-96.apng.png" />]
+[<img align="left" alt="HTML" width="40px" src="https://storage.yandexcloud.net/git-read-me/icons8-html-80.apng.png"/>]
+[<img align="left" alt="JavaScript" width="40px" src="https://storage.yandexcloud.net/git-read-me/icons8-js-96.apng.png" />]
+[<img align="left" alt="TypeScript" width="40px" src="https://storage.yandexcloud.net/git-read-me/icons8-typescript-96.png"/>]
+[<img align="left" alt="React" width="40px" src="https://storage.yandexcloud.net/git-read-me/icons8-react-native-96.png" />]
+[<img align="left" alt="ASTRO" width="40px" src="https://storage.yandexcloud.net/git-read-me/icons8-astro-js-96.png"/>]
+[<img align="left" alt="NextJS" width="40px" src="https://storage.yandexcloud.net/git-read-me/icons8-nextjs-96%20(1).png"/>]
 <br/>
 
 
