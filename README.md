@@ -10,11 +10,11 @@ I build modern interfaces with React, TypeScript, Astro and Next.js.
   <a href="https://t.me/podakov">
     <img alt="Telegram" width="40px" src="https://storage.yandexcloud.net/git-read-me/icons8-telegram-96.apng.png" />
   </a>
-  <a href="mailto:podakov@ya.ru">
+  <a href="mailto:podakov@yahoo.com">
     <img alt="Email" width="40px" src="https://storage.yandexcloud.net/git-read-me/icons8-email-64.apng.png" />
   </a>
   <a href="https://www.linkedin.com/in/podakov">
-    LinkedIn
+    <img alt="LinkedIn" width="40px" src="https://storage.yandexcloud.net/git-read-me/icons8-linkedin-96.apng.png" />
   </a>
 </p>
 
