@@ -24,9 +24,9 @@ I build modern interfaces with React, TypeScript, Astro and Next.js.
 
 <p>
   <img alt="Linux" width="40px" src="https://storage.yandexcloud.net/git-read-me/icons8-linux-96.apng.png" />
-  <img alt="HTML" width="40px" src="https://storage.yandexcloud.net/git-read-me/icons8-html-96.png" />
   <img alt="JavaScript" width="40px" src="https://storage.yandexcloud.net/git-read-me/icons8-javascript-96.png" />
   <img alt="TypeScript" width="40px" src="https://storage.yandexcloud.net/git-read-me/icons8-typescript-96.png" />
+  <img alt="HTML" width="40px" src="https://storage.yandexcloud.net/git-read-me/icons8-html-96.png" />
   <img alt="React" width="40px" src="https://storage.yandexcloud.net/git-read-me/icons8-react-native-96.png" />
   <img alt="Astro" width="40px" src="https://storage.yandexcloud.net/git-read-me/icons8-astro-js-96.png" />
   <img alt="Next.js" width="40px" src="https://storage.yandexcloud.net/git-read-me/icons8-nextjs-96%20(1).png" />
