@@ -5,17 +5,22 @@ I build modern interfaces with React, TypeScript, Astro and Next.js.
 ---
 
 ### ✉️ Contacts ✉️
+podakov8
 
 <p>
   <a href="https://t.me/podakov">
     <img alt="Telegram" width="40px" src="https://storage.yandexcloud.net/git-read-me/icons8-telegram-96.png" />
   </a>
+  <br>
   <a href="mailto:podakov@yahoo.com">
     <img alt="Email" width="40px" src="https://storage.yandexcloud.net/git-read-me/icons8-email-96.png" />
   </a>
+  <br>
   <a href="https://www.linkedin.com/in/podakov">
     <img alt="LinkedIn" width="40px" src="https://storage.yandexcloud.net/git-read-me/icons8-linkedin-96.png" />
   </a>
+  <br>
+  <img alt="Discord" width="40px" src="https://storage.yandexcloud.net/git-read-me/icons8-discord-96.png" /> `podakov8`
 </p>
 
 ---
