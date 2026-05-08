@@ -1,10 +1,10 @@
-### Hi, I'm German Podakov — a Software Developer
+### 👾 Hi, I'm German Podakov — a Software Developer 👾
 
 I build modern interfaces with React, TypeScript, Astro and Next.js.
 
 ---
 
-### Contacts
+### ✉️ Contacts ✉️
 
 <p>
   <a href="https://t.me/podakov">
@@ -20,12 +20,12 @@ I build modern interfaces with React, TypeScript, Astro and Next.js.
 
 ---
 
-### Stack
+### ❤️ I Love ❤️
 
 <p>
   <img alt="Linux" width="40px" src="https://storage.yandexcloud.net/git-read-me/icons8-linux-96.apng.png" />
-  <img alt="HTML" width="40px" src="https://storage.yandexcloud.net/git-read-me/icons8-html-80.apng.png" />
-  <img alt="JavaScript" width="40px" src="https://storage.yandexcloud.net/git-read-me/icons8-js-96.apng.png" />
+  <img alt="HTML" width="40px" src="https://storage.yandexcloud.net/git-read-me/icons8-html-96.png" />
+  <img alt="JavaScript" width="40px" src="https://storage.yandexcloud.net/git-read-me/icons8-javascript-96.png" />
   <img alt="TypeScript" width="40px" src="https://storage.yandexcloud.net/git-read-me/icons8-typescript-96.png" />
   <img alt="React" width="40px" src="https://storage.yandexcloud.net/git-read-me/icons8-react-native-96.png" />
   <img alt="Astro" width="40px" src="https://storage.yandexcloud.net/git-read-me/icons8-astro-js-96.png" />
